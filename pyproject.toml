@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "two-wings"
+name = "two-wings-bot"
 version = "0.1.0"
 description = "Telegram bot for foundation \"Two Wings\""
 authors = ["Sergey Natalenko <sergey.natalenko@mail.ru>"]
